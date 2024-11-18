@@ -1,16 +1,14 @@
-## Hi there 👋
+# 🏄‍♂️ Forrest Knight
 
-<!--
-**MustafaOzdemir-C/MustafaOzdemir-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Mustafa Özdemir (Developer/Freelancer)`**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello, my name is Mustafa, and I am 19 years old. I have been involved in software development for 4 years. I work as a freelancer, both in real-time and project-based settings. I have experience in both online and offline projects. Welcome to my page!
+
+   <p align="left">
+      <a href="https://bionluk.com/mustafaozdemiir" target="_blank" style="text-decoration: none;">
+  <img src="https://custom-icon-badges.demolab.com/badge/View-CE4630?color=%23E05D44&logo=eye&logoColor=white&style=for-the-badge&labelColor=CE4630" alt="View Badge">
+</a>    
+   </p>
+
+---
