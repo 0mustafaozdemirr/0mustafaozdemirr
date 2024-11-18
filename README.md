@@ -1,4 +1,4 @@
-# 🏄‍♂️ Mustafa Özdemir
+# ♠︎ Mustafa Özdemir
 
 **`Game Developer (Developer/Freelancer)`**
 
@@ -12,3 +12,18 @@ Hello, my name is Mustafa, and I am 19 years old. I have been involved in softwa
    </p>
 
 ---
+
+### 📌 What I Know?
+
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+
+<img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/>
+
+<img align="left" alt="Vegas Pro" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg"/>
+
+<img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/>
+
+<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+<br />
+
+#
