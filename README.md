@@ -27,4 +27,4 @@ Hello, my name is Mustafa, and I am 19 years old. I have been involved in softwa
 <br />
 
 #
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MustafaOzdemir-C)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0mustafaozdemirr)](https://github.com/anuraghazra/github-readme-stats)
